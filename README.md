@@ -1,12 +1,15 @@
 ### Welcome! 👋
 
-My name is Kevin Kho. I am currently working on [Fugue](https://github.com/fugue-project/fugue/), a minimal interface to bring Python, Pandas, and SQL code to Spark, Dask, and Ray. Most recently, I was at [Prefect](https://github.com/PrefectHQ/prefect) as an Open Source Community Engineer where I managed the Slack community and created content. Before working on open-source tooling, I was a data scientist for four years. 
+My name is Kevin Kho. I am currently working on [Fugue](https://github.com/fugue-project/fugue/), a minimal interface to bring Python, Pandas, and SQL code to Spark, Dask, and Ray. Most recently, I was at [Prefect](https://github.com/PrefectHQ/prefect) as an Open Source Community Engineer where I managed the Slack community and created content. Before working on open-source tooling, I was a data scientist for four years across [Paylocity](https://www.paylocity.com/) and [Itron](https://www.itron.com/). 
+
+I am contracting part time with a Fortune 50 company helping them scale compute workflows to distributed computing.
 
 **Contact me!**
 
 Feel free to reach out to me for anything data related. I talk to people about big data, data artichecture, data engineering, and data careers. Always happy to speak at Meetups, Lunch and Learn, or internal company meetings about the things I'm working on.
 
 Email: kdykho@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/kvnkho
 
 **Location**
@@ -37,18 +40,23 @@ I've given a couple of talks about Fugue, Prefect, and distributed computing. He
 
 **Podcasts**
 
-I've only had one podcast so far. Happy to speak in more!
-
 * [Data Engineeing Podcast - Build Your Python Data Processing Your Way And Run It Anywhere With Fugue](https://www.dataengineeringpodcast.com/fugue-python-data-processing-episode-266/)
 
 
-**Miscellaneous**
+**Other Data Stuff**
 
 I am involved in some other things:
 
-[DataKind](https://www.datakind.org/) - I volunteered for two projects helping non-profits with data science/data engineering work
-[Orlando Machine Learning and Data Science](https://www.meetup.com/orlando-mlds/) - I organized/co-organized this Meetup for 4 years
-[Adventurous Analytics](https://www.adventurousanalytics.com/) - I advise non-profit data science consulting projects 
+* [DataKind](https://www.datakind.org/) - I volunteered for two projects helping non-profits with data science/data engineering work
+* [Orlando Machine Learning and Data Science](https://www.meetup.com/orlando-mlds/) - I organized/co-organized this Meetup for 4 years
+* [Adventurous Analytics](https://www.adventurousanalytics.com/) - I advise non-profit data science consulting projects
+* Conference Involvement:
+  * SciPy 2022 Data Life Cycle Track Co-chair
+  * PyData Seattle 2023 Volunteer
 
 **Other Interests**
 
+* Mechanical Keyboards
+* Basketball
+* Kpop
+* Dota 2
