@@ -4,7 +4,7 @@ My name is Kevin Kho. I am currently working on [Fugue](https://github.com/fugue
 
 I am contracting part time with a Fortune 50 company helping them scale compute workflows to distributed computing.
 
-**Contact me!**
+:mailbox_with_no_mail:&nbsp;&nbsp;&nbsp;&nbsp;**Contact me!**
 
 Feel free to reach out to me for anything data related. I talk to people about big data, data artichecture, data engineering, and data careers. Always happy to speak at Meetups, Lunch and Learn, or internal company meetings about the things I'm working on.
 
@@ -12,11 +12,11 @@ Email: kdykho@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/kvnkho
 
-**Location**
+:earth_americas:&nbsp;&nbsp;&nbsp;&nbsp;**Location**
 
 I am currently based out of Chicago. Always happy to meet people in person.
 
-**Blogs**
+:memo:&nbsp;&nbsp;&nbsp;&nbsp;**Blogs**
 
 I mainly write about the things I am working on. Here are some:
 
@@ -28,7 +28,7 @@ I mainly write about the things I am working on. Here are some:
 
 [My Medium Profile](https://medium.com/@kdykho) will have all of my articles.
 
-**Conference Talks**
+:loudspeaker:&nbsp;&nbsp;&nbsp;&nbsp;**Conference Talks**
 
 I've given a couple of talks about Fugue, Prefect, and distributed computing. Here are some:
 
@@ -38,23 +38,23 @@ I've given a couple of talks about Fugue, Prefect, and distributed computing. He
 * [PyCon US 2021 - Large Scale Data Validation with Spark and Dask](https://www.youtube.com/watch?v=2AdvBgjO_3Q)
 * [PyData Global 2021 - An Intro to Workflow Management with Prefect](https://www.youtube.com/watch?v=RBhDnLESBR0)
 
-**Podcasts**
+:microphone:&nbsp;&nbsp;&nbsp;&nbsp;**Podcasts**
 
 * [Data Engineeing Podcast - Build Your Python Data Processing Your Way And Run It Anywhere With Fugue](https://www.dataengineeringpodcast.com/fugue-python-data-processing-episode-266/)
 
 
-**Other Data Stuff**
+:blue_heart:&nbsp;&nbsp;&nbsp;&nbsp;**Community**
 
 I am involved in some other things:
 
 * [DataKind](https://www.datakind.org/) - I volunteered for two projects helping non-profits with data science/data engineering work
 * [Orlando Machine Learning and Data Science](https://www.meetup.com/orlando-mlds/) - I organized/co-organized this Meetup for 4 years
-* [Adventurous Analytics](https://www.adventurousanalytics.com/) - I advise non-profit data science consulting projects
+* [Adventurous Analytics](https://www.adventurousanalytics.com/) - I advise non-profit data science consulting projects, primarily around the Florida foster care system
 * Conference Involvement:
   * SciPy 2022 Data Life Cycle Track Co-chair
   * PyData Seattle 2023 Volunteer
 
-**Other Interests**
+:nerd_face:&nbsp;&nbsp;&nbsp;&nbsp;**Other Interests**
 
 * Mechanical Keyboards
 * Basketball
