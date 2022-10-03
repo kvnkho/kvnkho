@@ -59,4 +59,3 @@ I am involved in some other things:
 * Mechanical Keyboards
 * Basketball
 * Kpop
-* Dota 2
