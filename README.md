@@ -1,4 +1,4 @@
-### Welcome! 👋
+### Hello! 👋
 
 My name is Kevin Kho. I am currently working on [Fugue](https://github.com/fugue-project/fugue/), a minimal interface to bring Python, Pandas, and SQL code to Spark, Dask, and Ray. Most recently, I was at [Prefect](https://github.com/PrefectHQ/prefect) as an Open Source Community Engineer where I managed the Slack community and created content. Before working on open-source tooling, I was a data scientist for four years across [Paylocity](https://www.paylocity.com/) and [Itron](https://www.itron.com/). 
 
