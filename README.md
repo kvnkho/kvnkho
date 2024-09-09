@@ -54,7 +54,7 @@ I am involved in some other things:
 * [Adventurous Analytics](https://www.adventurousanalytics.com/) - I advise non-profit data science consulting projects, primarily around the Florida foster care system
 * Conference Involvement:
   * SciPy 2022 Data Life Cycle Track Co-chair
-  * PyData Seattle 2023 Volunteer
+  * PyData Seattle 2023 Organizing Committee
 
 :nerd_face:&nbsp;&nbsp;&nbsp;&nbsp;**Other Interests**
 
