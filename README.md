@@ -1,12 +1,10 @@
 ### Hello! 👋
 
-My name is Kevin Kho. I am currently working on [Fugue](https://github.com/fugue-project/fugue/), a minimal interface to bring Python, Pandas, and SQL code to Spark, Dask, and Ray. Recently, I was at [Prefect](https://github.com/PrefectHQ/prefect) as an Open Source Community Engineer where I managed the Slack community and created content. Before working on open-source tooling, I was a data scientist for four years across [Paylocity](https://www.paylocity.com/) and [Itron](https://www.itron.com/). 
-
-I am currently working as an AI Engineer in [Drata](https://drata.com/) helping apply AI towards the compliance industry.
+My name is Kevin Kho. I am currently working as an AI Engineer at [Drata](https://drata.com/) applying AI towards the compliance industry. I maintain [Fugue](https://github.com/fugue-project/fugue/), a minimal interface to bring Python, Pandas, and SQL code to Spark, Dask, and Ray. Recently, I was at [Prefect](https://github.com/PrefectHQ/prefect) as an Open Source Community Engineer where I managed the Slack community and created content. Before working on open-source tooling, I was a data scientist for four years across [Paylocity](https://www.paylocity.com/) and [Itron](https://www.itron.com/). 
 
 :mailbox_with_no_mail:&nbsp;&nbsp;&nbsp;&nbsp;**Contact me!**
 
-Feel free to reach out to me for anything data related. I talk to people about big data, data artichecture, data engineering, and data careers. Always happy to speak at meetups or company meetings about the things I'm working on.
+Feel free to reach out to me for anything data related. Happy to talk to literally anyone. Always happy to speak at meetups or company meetings about the things I'm working on.
 
 Website: https://kevinkho.com/
 
@@ -16,7 +14,7 @@ LinkedIn: https://www.linkedin.com/in/kvnkho
 
 :earth_americas:&nbsp;&nbsp;&nbsp;&nbsp;**Location**
 
-I am currently based out of Chicago. Always happy to meet people in person.
+I am currently based out of Los Angeles. Always happy to meet people in person.
 
 :memo:&nbsp;&nbsp;&nbsp;&nbsp;**Blogs**
 
